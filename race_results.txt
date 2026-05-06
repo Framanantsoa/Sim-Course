@@ -1,0 +1,4 @@
+[2026/05/07 02:19:17] Voiture: SUBARU | Temps sur 400m: 12.338s | Vitesse: 199.97 km/h
+[2026/05/07 02:23:14] Voiture: SUBARU | Temps sur 400m: 12.010s | Vitesse: 200.07 km/h
+[2026/05/07 02:24:56] Voiture: SUBARU | Temps sur 400m: 12.008s | Vitesse: 199.87 km/h
+[2026/05/07 02:25:48] Voiture: SUBARU | Temps sur 400m: 12.001s | Vitesse: 200.60 km/h
